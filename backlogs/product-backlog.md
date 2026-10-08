@@ -19,9 +19,6 @@ permalink: /backlogs/product-backlog/
 | RC-011 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 3 | Y | Ready | -- |
 | RC-012 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 4 | Y | Ready | -- |
 | RC-014 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | Ready | -- |
-| RC-020 | As a team member, I want a picture I can click on to view my getting to know each other so that users can learn more about the team. | 7 | 4 | N | Ready | -- |
-| RC-021 | As a user, I want a list of team members with links to their getting to know each other so that I can learn about the individual members.| 7 | 4 | N | Ready | -- |
-| RC-022 | As a team member, I want an assignment portfolio so that users can see what our team has worked on. | 7 | 2 | N | Ready | -- |
 | RC-015 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 6 | 2 | Y | Ready | -- |
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 5 | 2 | N | Ready | -- |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 1 | N | Ready | -- |
@@ -31,3 +28,17 @@ permalink: /backlogs/product-backlog/
 | RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 3 | N | Ready | -- |
 | RC-019 | As a user, I would like the application to run natively on my iPhone so that I can use it while driving. | 1 | 5 | N | Ready | -- |
 
+
+# 📋 Product Backlog – *Getting to know each other*
+
+| **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
+|--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-020 | As a team member, I want a picture of Jacob that I can click on to view my getting to know each other so that users can learn more about the team. | 7 | 1 | N | Ready | -- |
+| RC-021 | As a team member, I want a picture of Josh I can click on to view my getting to know each other so that users can learn more about the team. | 7 | 1 | N | Ready | -- |
+| RC-022 | As a team member, I want a picture of Java I can click on to view my getting to know each other so that users can learn more about the team. | 7 | 1 | N | Ready | -- |
+| RC-023 | As a team member, I want a picture of Chloe I can click on to view my getting to know each other so that users can learn more about the team. | 7 | 1 | N | Ready | -- |
+| RC-024 | As a user, I want a link to Jacob's getting to know each other so that I can learn about the individual members.| 7 | 1 | N | Ready | -- |
+| RC-025 | As a user, I want a link to Josh's getting to know each other so that I can learn about the individual members.| 7 | 1 | N | Ready | -- |
+| RC-026 | As a user, I want a link to Java's getting to know each other so that I can learn about the individual members.| 7 | 1 | N | Ready | -- |
+| RC-027 | As a user, I want a link to Chloe's getting to know each other so that I can learn about the individual members.| 7 | 1 | N | Ready | -- |
+| RC-028 | As a team member, I want an assignment portfolio so that users can see what our team has worked on. | 7 | 2 | N | Ready | -- |
